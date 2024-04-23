@@ -10,3 +10,15 @@
 ![a_2024-04-23_19-15-19](https://github.com/Excelsior-w/LZW-DataMining/assets/107413496/fbb72546-fb44-4d32-af47-87e2e8b6cd32)
 ### 3.完成仓库的创建，从主页即可看到仓库的整体情况
 ![a_2024-04-23_19-34-08](https://github.com/Excelsior-w/LZW-DataMining/assets/107413496/04e382f1-2704-43ee-8bbe-e1af1c89fae5)
+
+## 三.希望学习的计算机技能
+### 1.git的学习
+依托GitHub远程仓库，学会使用git进行项目的管理和维护。
+自己在实现项目的时候会多次的对项目进行更改保存，产生很多的完全的版本，占用电脑的存储时其次，而且会难以找到恰当的版本。学习git对项目的版本进行维护。
+![Uploading a_2024-04-23_20-11-03.png…]()
+
+### 2.Doker的学习
+学会使用doker对项目的环境和依赖进行打包。自己在新的环境对项目进行复现的时候，又需要重新安装环境和依赖。（例如将自己计算机的项目推送到学校的集群进行运行）
+![a_2024-04-23_20-02-00](https://github.com/Excelsior-w/LZW-DataMining/assets/107413496/7a74b42b-98d3-4290-aa49-ab61287db2b4)
+
+
